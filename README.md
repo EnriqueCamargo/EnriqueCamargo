@@ -75,11 +75,11 @@
     <tr>
       <td align="center" style="padding: 10px;">
         <img src="assets/TecnicoRedes.png" height="80" alt="CCNA SRWE" /><br />
-        <sub><b>CCNA: SRWE</b></sub>
+        <sub><b>Network Technician</b></sub>
       </td>
       <td width="20"></td> <td align="center" style="padding: 10px;">
         <img src="assets/CCNA.png" height="80" alt="Network Technician" /><br />
-        <sub><b>Network Technician</b></sub>
+        <sub><b>CCNA: SRWE</b></sub>
       </td>
     </tr>
   </table>
