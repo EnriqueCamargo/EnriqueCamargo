@@ -67,3 +67,19 @@
 </div>
 
 ###
+
+<h5 align="left">Networking.</h5>
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://images.credly.com/images/73760454-e699-4d37-9755-46098045618f/CCNA_SRWE_600.png" width="100" alt="CCNA SRWE" /><br />
+      <sub><b>CCNA: Switching, Routing & Wireless Essentials</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://images.credly.com/images/39906d2d-450f-488b-a386-89d53f86e92f/Network_Technician_Career_Path.png" width="100" alt="Network Technician" /><br />
+      <sub><b>Network Technician Career Path</b></sub>
+    </td>
+  </tr>
+</table>
+
+###
