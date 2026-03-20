@@ -81,8 +81,21 @@
         <img src="assets/CCNA.png" height="80" alt="Network Technician" /><br />
         <sub><b>CCNA: SRWE</b></sub>
       </td>
+      <td width="20"></td> <td align="center" style="padding: 10px;">
+        <img src="assets/Java.png" height="80" alt="Network Technician" /><br />
+        <sub><b>CCNA: SRWE</b></sub>
+      </td>
     </tr>
   </table>
 </div>
+<h5 align="left">Certificates.</h5>
 
+<div align="left">
+      <td width="20"></td> <td align="center" style="padding: 10px;">
+        <img src="assets/Java.png" height="80" alt="Network Technician" /><br />
+        <sub><b>Java Fundamentals</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 ###
