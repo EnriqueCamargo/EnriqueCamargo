@@ -80,11 +80,6 @@
       <td width="20"></td> <td align="center" style="padding: 10px;">
         <img src="assets/CCNA.png" height="80" alt="Network Technician" /><br />
         <sub><b>CCNA: SRWE</b></sub>
-      </td>
-      <td width="20"></td> <td align="center" style="padding: 10px;">
-        <img src="assets/Java.png" height="80" alt="Network Technician" /><br />
-        <sub><b>CCNA: SRWE</b></sub>
-      </td>
     </tr>
   </table>
 </div>
